@@ -1,0 +1,7 @@
+SELECT 
+    category,
+    SUM(revenue) AS total_revenue,
+    SUM(units_sold) AS total_units
+FROM indian_ecommerce_pricing
+GROUP BY category
+ORDER BY total_revenue DESC;
