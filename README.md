@@ -75,7 +75,7 @@ Key Insights:
 - The highest revenue occurred in June 2023, and seasonal spikes are visible around June and September, indicating possible seasonal demand. 
 - Overall, the business experiences month-to-month variations instead of consistent increasing or decreasing trends.
 
-![Monthly Revenue Trend](outputs/monthly_revenue_trend.png)
+![Monthly Revenue Trend](outputs/monthly_revenue_trend.PNG)
 
 
 3. Month-to-Month Revenue growth %
@@ -88,7 +88,7 @@ Key Insights:
 - The highest growth occurred in June 2024 (14.12%), while the largest drop was in July 2023 (-12.03%), indicating cyclical demand behavior rather than steady growth.
 
 
-![Month to Month Revenue Growth](outputs/month_to_month_revenue_growth.png)
+![Month to Month Revenue Growth](outputs/month_to_month_revenue_growth.PNG)
 
 
 
@@ -121,7 +121,7 @@ Key Insights:
 - Lower prices drive high volume but lower revenue, while premium pricing targets a smaller customer segment.
 
 
-![Pricing vs Demand](outputs/pricing_vs_demand.png)
+![Pricing vs Demand](outputs/pricing_vs_demand.PNG)
 
 
 6. Top performing States
@@ -133,7 +133,7 @@ Key Insights:
 - Regional analysis shows Delhi NCR, Maharashtra, and Karnataka are the highest revenue generating markets due to strong demand and high purchasing power. 
 - Sales performance is concentrated in urban regions, while states like Uttar Pradesh and West Bengal present growth opportunities due to lower revenue despite large populations.
 
-![Top Performing States](outputs/top_performing_states.png)
+![Top Performing States](outputs/top_performing_states.PNG)
 
 
 7. Product Category Performance Analysis
@@ -146,7 +146,7 @@ Key Insights:
 - The business relies heavily on premium product segments for revenue growth while maintaining mass-market categories for consistent demand.
 
 
-![Product Category Performance](outputs/product_category_performance.png)
+![Product Category Performance](outputs/product_category_performance.PNG)
 
 
 8. Revenue Drivers Analysis
@@ -159,7 +159,7 @@ Key Insights:
 - The findings indicate that revenue is influenced more by customer purchasing patterns and order size rather than price or demand alone.
 
 
-![Final Revenue Drivers](outputs/final_revenue_drivers.png)
+![Final Revenue Drivers](outputs/final_revenue_drivers.PNG)
 
 
 
