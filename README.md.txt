@@ -5,7 +5,7 @@ Indian E-Commerce Pricing & Revenue Analysis (SQL Project)
 
 - This project analyzes Indian e-commerce sales data using SQL to understand revenue trends, pricing impact, demand behavior, and regional performance.
 - The goal of this project is to perform business-focused data analysis and generate actionable insights that help companies improve pricing strategy and revenue growth.
-z- This project demonstrates SQL skills, business thinking, and data analysis workflow.
+- This project demonstrates SQL skills, business thinking, and data analysis workflow.
 
 
 🎯 Business Objectives
@@ -189,4 +189,5 @@ Key Insights:
 👤 Author
 
 Abdul Mujeeb  
+
 
