@@ -105,7 +105,7 @@ Key Insights:
 - The optimal discount range appears between 6%–11%, where both revenue and units sold peak. 
 - Very low discounts generate minimal sales, indicating aggressive discount strategies drive business performance.
 
-![Discount Impact](outputs/discount_impact_on_revenue.png)
+![Discount Impact](outputs/discount_impact_on_revenue.PNG)
 
 
 
