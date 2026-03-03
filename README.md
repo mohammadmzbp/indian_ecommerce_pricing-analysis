@@ -1,14 +1,14 @@
 
-Indian E-Commerce Pricing & Revenue Analysis (SQL Project)
+# Indian E-Commerce Pricing & Revenue Analysis (SQL Project)
 
-📌 Project Overview
+## 📌 Project Overview
 
 - This project analyzes Indian e-commerce sales data using SQL to understand revenue trends, pricing impact, demand behavior, and regional performance.
 - The goal of this project is to perform business-focused data analysis and generate actionable insights that help companies improve pricing strategy and revenue growth.
 - This project demonstrates SQL skills, business thinking, and data analysis workflow.
 
 
-🎯 Business Objectives
+## 🎯 Business Objectives
 
 - Analyze monthly revenue trends
 - Understand impact of pricing on demand
@@ -19,7 +19,7 @@ Indian E-Commerce Pricing & Revenue Analysis (SQL Project)
 
 
 
-🛠 Tools & Technologies Used
+## 🛠 Tools & Technologies Used
 
 - MySQL
 - SQL
@@ -28,7 +28,7 @@ Indian E-Commerce Pricing & Revenue Analysis (SQL Project)
 
 
 
-📊 Dataset Information
+## 📊 Dataset Information
 
 Dataset: Indian E-commerce Pricing Revenue Growth
 
@@ -55,7 +55,7 @@ Columns:
 
 
 
-🔍 Project Workflow
+## 🔍 Project Workflow
 
 
 1.  Data Cleaning & Preparation
@@ -163,7 +163,7 @@ Key Insights:
 
 
 
-📈 Business Insights Summary
+## 📈 Business Insights Summary
 
 - Pricing significantly affects customer demand
 - Premium categories generate maximum revenue
@@ -173,7 +173,7 @@ Key Insights:
 
 
 
-🚀 Skills Demonstrated
+## 🚀 Skills Demonstrated
 
 - SQL data cleaning
 - Aggregate functions
@@ -186,6 +186,6 @@ Key Insights:
 
 
 
-👤 Author
+## 👤 Author
 
 Mohammad Mujeeb Pasha
